@@ -17,7 +17,7 @@
 #define num_generations 1300
 #define initial_population (Nx*Ny)/5 //numero inicial de individuos de cada especie
 #define num_interactions (num_generations*Nx*Ny)
-#define num_files 100
+#define num_files 50
 
 #define seed 223
 
