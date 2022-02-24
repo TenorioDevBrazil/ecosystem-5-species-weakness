@@ -21,7 +21,7 @@
 
 #define seed 223
 
-#define radius 2	// computing radius of local density
+#define radius 3	// computing radius of local density
 #define epsilon 0.0
 #define dispersion 0.0
 
